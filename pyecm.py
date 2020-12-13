@@ -1,3 +1,5 @@
+#Dieses Programm habe ich nicht selbst geschrieben, sondern aus dem Internet heruntergeladen [21].
+
 import math
 import sys
 import random
